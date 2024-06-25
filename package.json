@@ -1,0 +1,33 @@
+{
+  "name": "cs2-sounds-tracker",
+  "author": "LukeTheNeko",
+  "version": "1.0.0",
+  "description": "Counter Strike Sounds Tracker",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "cs2",
+    "sounds",
+    "musics",
+    "tracker",
+    "counter",
+    "strike",
+    "images",
+    "csgo"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@node-steam/vdf": "^2.2.0",
+    "@types/node": "^20.14.2",
+    "@types/steam-user": "^5.0.0",
+    "pk": "^1.1.0",
+    "steam-user": "^5.0.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "vpk": "^0.2.0"
+  }
+}
