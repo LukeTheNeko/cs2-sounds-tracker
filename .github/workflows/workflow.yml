@@ -1,4 +1,4 @@
-name: Download CS Music Files
+name: Download CS Sounds Files
 
 on:
   schedule:

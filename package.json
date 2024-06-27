@@ -1,7 +1,7 @@
 {
   "name": "cs2-sounds-tracker",
   "author": "LukeTheNeko",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Counter Strike Sounds Tracker",
   "main": "dist/index.js",
   "scripts": {
@@ -10,14 +10,14 @@
     "start": "node dist/index.js"
   },
   "keywords": [
-    "cs2",
-    "sounds",
-    "musics",
-    "tracker",
+    "counter-strike-2",
+    "counter-strike",
     "counter",
     "strike",
-    "images",
-    "csgo"
+    "csgo",
+    "cs2",
+    "sounds",
+    "tracker"
   ],
   "license": "MIT",
   "dependencies": {
