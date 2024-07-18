@@ -190,3 +190,27 @@ Exception: System.NullReferenceException: Object reference not set to an instanc
    at ValveResourceFormat.Resource.Read(Stream input, Boolean verifyFileSize) in /home/runner/work/ValveResourceFormat/ValveResourceFormat/ValveResourceFormat/Resource/Resource.cs:line 329
    at Decompiler.Decompiler.DumpVPK(String parentPath, Package package, String type, Dictionary`2 manifestData) in /home/runner/work/ValveResourceFormat/ValveResourceFormat/Decompiler/Decompiler.cs:line 972
 
+---------------
+Parent file: /home/runner/work/cs2-sounds-tracker/cs2-sounds-tracker/temp/pak01_dir.vpk
+File: sounds/music/isoxo_01/bombtenseccount.vsnd_c
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at ValveResourceFormat.Resource.get_FullFileSize() in /home/runner/work/ValveResourceFormat/ValveResourceFormat/ValveResourceFormat/Resource/Resource.cs:line 122
+   at ValveResourceFormat.Resource.Read(Stream input, Boolean verifyFileSize) in /home/runner/work/ValveResourceFormat/ValveResourceFormat/ValveResourceFormat/Resource/Resource.cs:line 329
+   at Decompiler.Decompiler.DumpVPK(String parentPath, Package package, String type, Dictionary`2 manifestData) in /home/runner/work/ValveResourceFormat/ValveResourceFormat/Decompiler/Decompiler.cs:line 972
+
+---------------
+Parent file: /home/runner/work/cs2-sounds-tracker/cs2-sounds-tracker/temp/pak01_dir.vpk
+File: sounds/music/knock2_02/startround_01.vsnd_c
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at ValveResourceFormat.Resource.get_FullFileSize() in /home/runner/work/ValveResourceFormat/ValveResourceFormat/ValveResourceFormat/Resource/Resource.cs:line 122
+   at ValveResourceFormat.Resource.Read(Stream input, Boolean verifyFileSize) in /home/runner/work/ValveResourceFormat/ValveResourceFormat/ValveResourceFormat/Resource/Resource.cs:line 329
+   at Decompiler.Decompiler.DumpVPK(String parentPath, Package package, String type, Dictionary`2 manifestData) in /home/runner/work/ValveResourceFormat/ValveResourceFormat/Decompiler/Decompiler.cs:line 972
+
+---------------
+Parent file: /home/runner/work/cs2-sounds-tracker/cs2-sounds-tracker/temp/pak01_dir.vpk
+File: sounds/music/knock2_02/startround_02.vsnd_c
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at ValveResourceFormat.Resource.get_FullFileSize() in /home/runner/work/ValveResourceFormat/ValveResourceFormat/ValveResourceFormat/Resource/Resource.cs:line 122
+   at ValveResourceFormat.Resource.Read(Stream input, Boolean verifyFileSize) in /home/runner/work/ValveResourceFormat/ValveResourceFormat/ValveResourceFormat/Resource/Resource.cs:line 329
+   at Decompiler.Decompiler.DumpVPK(String parentPath, Package package, String type, Dictionary`2 manifestData) in /home/runner/work/ValveResourceFormat/ValveResourceFormat/Decompiler/Decompiler.cs:line 972
+
